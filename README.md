@@ -31,6 +31,7 @@ This template for landing page development use gulp with browsersync, scss, jade
 * to remove unnided libs just commented line in libs.scss
 * fonts, mixins, variables and begin styles in sass/common directory
 * all stales for pages partials(header, sections, footer, forms, buttons, ...) in sass/partials directory
+* Add new version Bootstrap 4.0
 
 ### Who do I talk to? ###
 
