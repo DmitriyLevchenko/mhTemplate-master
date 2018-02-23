@@ -33,11 +33,6 @@ This template for landing page development use gulp with browsersync, scss, jade
 * all stales for pages partials(header, sections, footer, forms, buttons, ...) in sass/partials directory
 * Add new version Bootstrap 4.0
 
-### Who do I talk to? ###
-
-* Repo owner or admin holodniak.e from Monochrome development band
-* Email of repo owner holodniak.e@gmail.com
-* Other community or team contact
 
 
 ### FEATURES ###
